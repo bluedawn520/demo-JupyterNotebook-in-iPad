@@ -4,14 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-spacy = "*"
-ipykernel = "*"
-scipy = "*"
 numpy = "*"
-scikit-learn = "*"
 matplotlib = "*"
-pandas = "*"
-thinc = "*"
 
 [dev-packages]
 
