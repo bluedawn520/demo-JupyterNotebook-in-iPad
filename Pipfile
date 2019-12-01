@@ -7,7 +7,7 @@ name = "pypi"
 ipykernel = "*"
 numpy = "*"
 matplotlib = "*"
-sklearn = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
